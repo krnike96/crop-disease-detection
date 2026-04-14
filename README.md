@@ -124,7 +124,7 @@ crop\_disease\_project/
 
 ### **1\. Clone the repository**
 
-git clone \[https://github.com/yourusername/crop-disease-detection.git\](https://github.com/yourusername/crop-disease-detection.git)  
+git clone \[https://github.com/krnike96/crop-disease-detection\](https://github.com/krnike96/crop-disease-detection)  
 cd crop-disease-detection
 
 ### **2\. Backend Setup**
